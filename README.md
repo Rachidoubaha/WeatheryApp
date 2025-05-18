@@ -5,19 +5,6 @@ The Weathery App is a simple yet feature-rich iOS application built using SwiftU
 
 
 
-### Key Features
-
-- **SwiftUI:** The user interface of the app is created entirely using SwiftUI, offering a native and responsive user experience on iOS devices.
-
-- **MVVM Architecture:** The project is organized using the Model-View-ViewModel architectural pattern, promoting separation of concerns and maintainability.
-
-- **JSON Data:** Weather data is fetched from the OpenWeatherMap API in JSON format and then decoded into Swift objects for presentation.
-
-- **City Search:** Users can search for weather information in different cities by entering the city name in the search bar. The app provides real-time updates based on the user's input.
-
-- **Hourly Forecast:** Detailed hourly weather forecasts are available for the next 4 days, allowing users to plan their activities accordingly.
-
-### Technologies Used
 
 - SwiftUI
 - MVVM Architecture
@@ -34,14 +21,10 @@ The Weathery App is a simple yet feature-rich iOS application built using SwiftU
 
 ### Screen
 
+![scren1](https://github.com/user-attachments/assets/7127bb47-66fb-42ac-82a4-8acd96dec2f5)
+
+voila lien de projet
 
 https://github.com/Rachidoubaha/WeatheryApp
 
-### Contributing
 
-Contributions to this project are welcome! If you have any ideas for improvements or bug fixes, please open an issue or submit a pull request.
-
-### Acknowledgments
-
-- The app utilizes the OpenWeatherMap API for weather data.
-- Special thanks to the SwiftUI and Swift community for their contributions and support.
